@@ -1,3 +1,25 @@
 = red_trip
 
 Description goes here
+
+= use_cases
+
+As an employee I want to add new delegation to the system
+As an employee I want to edit existing and not finished delegation
+As an employee I want to close my delegations
+As an employee I want to remove delegations
+As an employee I want to see all delegations
+As an employee I want to see all my delegations
+As an employee I want to see all my delegations in an outlook calendar
+As an employee I want to sort delegations by any of the fields
+As an manager I want to see delegations of my department
+As an employee I want to assign anyone to the delegation
+As an employee I want to add related tasks to delegation
+As an employee I want to check what resources are available (car, projector, etc.)
+As an manager I want to be able to add new items on dictionaries
+As an employee I want email confirmation of my delegations
+As an employee I want email notification about any changes
+As a technical staff member I want to know if I need to prepare presentation environment
+As an accountant I want to know what expenses are planned
+As an accountant I want all data I need for accounting
+
