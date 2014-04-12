@@ -1,8 +1,8 @@
 Redmine::Plugin.register :red_trip do
-  name 'Red Trip plugin'
-  author 'Author name'
-  description 'This is a plugin for Redmine'
+  name 'Redmine Business Trips plugin'
+  author 'Przemek "Rocktail" Misztal'
+  description 'Business trips made easy'
   version '0.0.1'
-  url 'http://example.com/path/to/plugin'
-  author_url 'http://example.com/about'
+  url 'https://github.com/rocktail/red_trip'
+  author_url 'https://github.com/rocktail'
 end
