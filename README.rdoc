@@ -1,4 +1,4 @@
-= red_trip
+= Redmine Business Trips
 
 Redmine plugin for managing business trips.
 
