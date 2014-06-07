@@ -2,3 +2,4 @@
 
 Redmine plugin for managing business trips.
 
+Work in progress
